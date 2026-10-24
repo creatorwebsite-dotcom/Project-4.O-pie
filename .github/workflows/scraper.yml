@@ -1,0 +1,96 @@
+name: Automated Recruitment & The Hindu Sync
+
+on:
+  schedule:
+    - cron: '10 1 * * *'    # Subah 6:40 AM IST
+    - cron: '10 2 * * *'    # Subah 7:40 AM IST
+    - cron: '10 4 * * *'    # Subah 9:40 AM IST
+    - cron: '40 5 * * *'    # Subah 11:10 AM IST
+    - cron: '20 8 * * *'    # Dopahar 1:50 PM IST
+    - cron: '10 12 * * *'   # Shaam 5:40 PM IST
+    - cron: '10 13 * * *'   # Shaam 6:40 PM IST
+    - cron: '40 15 * * *'   # Raat 9:10 PM IST
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Fast Anti-Block Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4 curl_cffi lxml
+
+      # Step A: Run The Hindu 3-Day Broadsheet Bot (With Per-Attempt 180s Timeout & 6 Retries / 2-Min Gap)
+      - name: Run The Hindu 3-Day Broadsheet & GK Bot
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          for attempt in 1 2 3 4 5 6; do
+            echo "Running The Hindu Bot (Attempt $attempt/6)..."
+            if timeout 180s python the_hindu_bot.py; then
+              echo "The Hindu Bot succeeded on attempt $attempt."
+              break
+            fi
+            if [ $attempt -lt 6 ]; then
+              echo "Attempt $attempt timed out or failed. Waiting 120 seconds (2 minutes)..."
+              sleep 120
+            fi
+          done
+
+      # Step B: Run Multi-Agent Recruitment Scraper (With Per-Attempt 240s Timeout & 6 Retries / 2-Min Gap)
+      - name: Run 2-Websites & Mirrors Recruitment Scraper
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          for attempt in 1 2 3 4 5 6; do
+            echo "Running Multi-Agent Scraper (Attempt $attempt/6)..."
+            if timeout 240s python multi_agent_scraper.py; then
+              echo "Multi-Agent Scraper succeeded on attempt $attempt."
+              break
+            fi
+            if [ $attempt -lt 6 ]; then
+              echo "Attempt $attempt timed out or failed. Waiting 120 seconds (2 minutes)..."
+              sleep 120
+            fi
+          done
+
+      # Step C: Always Commit & Push Updated JSON Databases to Main Branch
+      - name: Commit and Push Databases to GitHub
+        run: |
+          git config --global user.name "SarkariPortal-Bot"
+          git config --global user.email "bot@sarkarinaukar.com"
+          touch jobs_database.json the_hindu_daily.json admin_boxes.json
+          git add jobs_database.json the_hindu_daily.json admin_boxes.json
+          git commit -m "Auto-sync live published posts, admin boxes & 3-day newspaper [$(date -u +'%Y-%m-%d %H:%M UTC')]" || exit 0
+
+          for attempt in 1 2 3 4 5 6; do
+            echo "Pushing updated databases to GitHub main branch (Attempt $attempt/6)..."
+            if git pull --rebase origin main && git push origin main; then
+              echo "Successfully pushed live databases on attempt $attempt!"
+              break
+            fi
+            if [ $attempt -lt 6 ]; then
+              echo "Push attempt $attempt failed. Waiting 120 seconds before retry..."
+              sleep 120
+            fi
+          done

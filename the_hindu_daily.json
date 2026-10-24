@@ -1,0 +1,50 @@
+{
+  "updatedAt": "24 Oct 2026, 11:22 PM IST",
+  "currentDateIso": "2026-10-24",
+  "currentDateDisplay": "24 Oct 2026",
+  "availableDates": [
+    {
+      "dateIso": "2026-10-24",
+      "dateDisplay": "24 Oct 2026",
+      "updatedAt": "24 Oct 2026, 10:55 PM IST",
+      "articleCount": 0
+    },
+    {
+      "dateIso": "2026-10-23",
+      "dateDisplay": "23 Oct 2026",
+      "updatedAt": "24 Oct 2026, 10:55 PM IST",
+      "articleCount": 0
+    },
+    {
+      "dateIso": "2026-10-22",
+      "dateDisplay": "22 Oct 2026",
+      "updatedAt": "24 Oct 2026, 10:55 PM IST",
+      "articleCount": 0
+    }
+  ],
+  "hookLine1": "Daily Editorial & Broadsheet Exam Digest (24 Oct 2026)",
+  "hookLine2": "100% In-App Full Newspaper Print Edition & 3-Day Archive • Updated: 24 Oct 2026, 11:22 PM IST",
+  "totalArticles": 0,
+  "articles": [],
+  "archiveByDate": {
+    "2026-10-24": {
+      "dateIso": "2026-10-24",
+      "dateDisplay": "24 Oct 2026",
+      "updatedAt": "24 Oct 2026, 10:55 PM IST",
+      "articles": []
+    },
+    "2026-10-23": {
+      "dateIso": "2026-10-23",
+      "dateDisplay": "23 Oct 2026",
+      "updatedAt": "24 Oct 2026, 10:55 PM IST",
+      "articles": []
+    },
+    "2026-10-22": {
+      "dateIso": "2026-10-22",
+      "dateDisplay": "22 Oct 2026",
+      "updatedAt": "24 Oct 2026, 10:55 PM IST",
+      "articles": []
+    }
+  },
+  "dailyQuiz10": []
+}

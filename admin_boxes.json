@@ -1,0 +1,77 @@
+{
+  "updated_at": "2026-10-24 23:23:50 IST",
+  "window_days": 15,
+  "category_counts": {
+    "latest_jobs": 31,
+    "results": 13,
+    "admit_cards": 8,
+    "answer_keys": 8,
+    "syllabus": 8,
+    "admissions": 9
+  },
+  "trending_top_6": [
+    {
+      "id": "12061836307c",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
+      "sub": "Latest Jobs",
+      "url": "https://apply.upessc.org/",
+      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "24abaf3c6180",
+      "title": "SSC GD Constable Revised Result 2026",
+      "sub": "Result",
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
+      "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
+      "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "b10ed17d2088",
+      "title": "Assam Police, 5 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Assam Police, 5 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "7332bd480fd8",
+      "title": "RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies",
+      "sub": "Admit Card",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 116,
+      "active": true
+    },
+    {
+      "id": "b034e86b56ae",
+      "title": "Odisha Police 7,268 Constable Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
+      "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
+      "rushScore": 116,
+      "active": true
+    },
+    {
+      "id": "3be99039dc2a",
+      "title": "India Post GDS Result 2026 Out",
+      "sub": "Result",
+      "url": "https://img2.freejobalert.com/news/2026/10/236451-6acdaff9c5fcc12590836.pdf",
+      "details": "India Post GDS Result 2026 has released on 12 October 2026 for 23,757 Gramin Dak Sevak, Branch Postmaster (BPM) and Assistant Branch Postmaster (ABPM)/Dak Sevak vacancies under Schedule-II, July 2026. Candidates can download the circle-wise 1st merit list PDF and search their registration number to check shortlisting status. Visit indiapostgdsonline.gov.in for the official result and document verification instructions.",
+      "rushScore": 101,
+      "active": true
+    }
+  ],
+  "standard_boxes": [
+    "Latest Jobs",
+    "Result",
+    "Admit Card",
+    "Answer Key",
+    "Syllabus",
+    "Admission"
+  ],
+  "new_custom_boxes": []
+}

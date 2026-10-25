@@ -3075,6 +3075,166 @@
     upgradeBotAssistantToPhotoLayout();
   }, 300);
 })();
+</script><!-- ============================================================================ -->
+<!-- 🚀 ULTIMATE ADMIN.HTML FIX: REPO AUTO-DETECT (Project-4.O-pie), SELECTED     -->
+<!-- COUNTER, SEPARATE LIVE VS SCRAPED BUTTONS & FULL 6-FIELD ADS ENGINE          -->
+<!-- Paste this entire block at the VERY BOTTOM of admin_4.html before </body>    -->
+<!-- ============================================================================ -->
+<script id="sn-admin-complete-fix-patch">
+(function() {
+  "use strict";
+
+  // 1. FIX REPOSITORY NAME TO MATCH REAL GITHUB REPO (Project-4.O-pie)
+  function fixGitHubRepoName() {
+    const repoInp = document.getElementById("gh_repo");
+    const inferredRepo = (window.location.pathname.split("/")[1] || "").trim();
+    const targetRepo = (inferredRepo && inferredRepo.includes("Project")) ? inferredRepo : "Project-4.O-pie";
+    if (repoInp && (repoInp.value === "Project-4.O" || !repoInp.value)) {
+      repoInp.value = targetRepo;
+    }
+  }
+
+  // 2. LIVE SELECTED CHECKBOXES COUNTER + SEPARATE LIVE VS SCRAPED PENDING BUTTONS
+  function injectSelectionCounterAndSeparatePostButtons() {
+    const cmdBar = document.querySelector(".agentic-command-bar");
+    if (cmdBar && !document.getElementById("snLiveVsScrapedQuickBar")) {
+      const bar = document.createElement("div");
+      bar.id = "snLiveVsScrapedQuickBar";
+      bar.style.cssText = "display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-top:12px; padding-top:12px; border-top:1.5px dashed rgba(248,192,22,0.4);";
+      bar.innerHTML = `
+        <div style="display:flex; gap:8px; flex-wrap:wrap;">
+          <button type="button" class="btn-agentic" data-custom-trig="1" style="background:#10b981; color:#fff; border:1.5px solid #fff;" onclick="window.openDedicatedPostsView('published')">
+            🟢 View Live Published Posts (<span id="btnCntLivePosts">0</span>)
+          </button>
+          <button type="button" class="btn-agentic" data-custom-trig="1" style="background:#f59e0b; color:#041922; border:1.5px solid #fff;" onclick="window.openDedicatedPostsView('review')">
+            ⏳ View Scraped Pending Review Posts (<span id="btnCntScrapedReview">0</span>)
+          </button>
+        </div>
+        <div id="snGlobalSelectedCounterBadge" style="background:#dc2626; color:#ffffff; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:900; border:1.5px solid #fef08a;">
+          ☑️ Selected Posts: <span id="snSelectedCountNum">0</span>
+        </div>
+      `;
+      cmdBar.appendChild(bar);
+    }
+    updateSelectedCountAndPostBadges();
+  }
+
+  window.openDedicatedPostsView = function(statusType) {
+    const link = document.querySelector('a[href="#posts"]');
+    if (typeof switchTab === "function") switchTab("posts", link);
+    const stSel = document.getElementById("allPostsStatusFilter");
+    if (stSel) {
+      stSel.value = statusType;
+      if (typeof renderAllPosts === "function") renderAllPosts();
+    }
+  };
+
+  function updateSelectedCountAndPostBadges() {
+    const checkedCount = document.querySelectorAll(".chk-review-row:checked, .chk-dash-row:checked, .chk-allposts-row:checked").length;
+    const numEl = document.getElementById("snSelectedCountNum");
+    if (numEl) numEl.textContent = String(checkedCount);
+
+    try {
+      const db = typeof getDB === "function" ? getDB() : { posts: [] };
+      const posts = db.posts || [];
+      const liveCnt = posts.filter(p => (p.status || "published") === "published").length;
+      const revCnt = posts.filter(p => p.status === "review" || p.status === "pending_review").length;
+      const bL = document.getElementById("btnCntLivePosts");
+      const bR = document.getElementById("btnCntScrapedReview");
+      if (bL) bL.textContent = String(liveCnt);
+      if (bR) bR.textContent = String(revCnt);
+    } catch (e) {}
+  }
+
+  document.addEventListener("change", function(e) {
+    if (e.target && e.target.classList.contains("row-check-input")) {
+      setTimeout(updateSelectedCountAndPostBadges, 50);
+    }
+  });
+
+  // 3. UPGRADE ADS & SPONSORS TO EXACT 6-DROPDOWN SCREENSHOT LAYOUT (174101 - 174046)
+  window.addDynamicAdRule = function(data = {}) {
+    const holder = document.getElementById("dynamicAdRulesHolder");
+    if (!holder) return;
+    const div = document.createElement("div");
+    div.className = "snf-row-card dyn-ad-row";
+    div.style.cssText = "background:#fffdf5; border:1.5px solid #f59e0b; padding:12px; border-radius:10px; margin-bottom:10px;";
+    div.innerHTML = `
+      <div class="snf-grid">
+        <div>
+          <label style="font-size:0.72rem; font-weight:800; color:#094053;">Sponsor / Campaign Name</label>
+          <input type="text" class="da-name" placeholder="e.g. Test Series / Coaching" value="${escapeHtml(data.name || '')}">
+        </div>
+        <div>
+          <label style="font-size:0.72rem; font-weight:800; color:#094053;">Ad Media Format</label>
+          <select class="da-format">
+            <option value="image" ${data.format === 'image' ? 'selected' : ''}>🖼️ Banner Image + Link</option>
+            <option value="short_video" ${data.format === 'short_video' ? 'selected' : ''}>🎬 Short Video (MP4 / YouTube)</option>
+            <option value="sponsor_link" ${data.format === 'sponsor_link' ? 'selected' : ''}>🔗 Sponsored Button / Link</option>
+            <option value="script_html" ${data.format === 'script_html' ? 'selected' : ''}>💻 Custom HTML / AdSense Script</option>
+          </select>
+        </div>
+        <div>
+          <label style="font-size:0.72rem; font-weight:800; color:#094053;">Website Position</label>
+          <select class="da-pos">
+            <option value="floating_screen" ${data.position === 'floating_screen' ? 'selected' : ''}>🎈 Floating on Website Screen</option>
+            <option value="fixed_top" ${data.position === 'fixed_top' ? 'selected' : ''}>⬆️ Fixed Top Header</option>
+            <option value="fixed_center" ${data.position === 'fixed_center' ? 'selected' : ''}>🎯 Fixed Center Screen / Feed</option>
+            <option value="fixed_left" ${data.position === 'fixed_left' ? 'selected' : ''}>⬅️ Fixed Left Sidebar</option>
+            <option value="fixed_right" ${data.position === 'fixed_right' ? 'selected' : ''}>➡️ Fixed Right Sidebar</option>
+            <option value="sticky_bottom" ${data.position === 'sticky_bottom' ? 'selected' : ''}>⬇️ Sticky Bottom Bar</option>
+            <option value="inside_post" ${data.position === 'inside_post' ? 'selected' : ''}>📄 Inside Post Details</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="snf-grid">
+        <div>
+          <label style="font-size:0.72rem; font-weight:800; color:#094053;">Trigger Rule (Kab Dikhe?)</label>
+          <select class="da-trigger">
+            <option value="delay_15_20s" ${data.trigger === 'delay_15_20s' ? 'selected' : ''}>⏱️ Website Open Hone ke 15-20 Second Baad</option>
+            <option value="on_post_open" ${data.trigger === 'on_post_open' ? 'selected' : ''}>📂 Jab Koi Post Open Ho</option>
+            <option value="click_apply" ${data.trigger === 'click_apply' ? 'selected' : ''}>🚀 Apply Online Link Click Par</option>
+            <option value="click_pdf" ${data.trigger === 'click_pdf' ? 'selected' : ''}>📄 Notification PDF Download Click Par</option>
+            <option value="click_answer_key" ${data.trigger === 'click_answer_key' ? 'selected' : ''}>🔑 Answer Key Click Par</option>
+            <option value="click_admit_card" ${data.trigger === 'click_admit_card' ? 'selected' : ''}>🪪 Admit Card Click Par</option>
+            <option value="click_syllabus" ${data.trigger === 'click_syllabus' ? 'selected' : ''}>📚 Syllabus Click Par</option>
+            <option value="click_premium" ${data.trigger === 'click_premium' ? 'selected' : ''}>💎 Premium Feature / Tool Click Par</option>
+            <option value="immediate" ${data.trigger === 'immediate' ? 'selected' : ''}>⚡ Immediately on Page Load</option>
+          </select>
+        </div>
+        <div>
+          <label style="font-size:0.72rem; font-weight:800; color:#094053;">Timer Delay (Seconds)</label>
+          <input type="number" class="da-delay" value="${Number(data.delaySeconds || 15)}" min="0" max="300">
+        </div>
+        <div>
+          <label style="font-size:0.72rem; font-weight:800; color:#094053;">Agentic Mode (Option A / B)</label>
+          <select class="da-mode">
+            <option value="option_a" ${data.agenticMode === 'option_a' ? 'selected' : ''}>Option A: Smart Display Overlay</option>
+            <option value="option_b" ${data.agenticMode === 'option_b' ? 'selected' : ''}>Option B: 5-Sec Countdown Gate Before Link</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="snf-grid">
+        <input type="text" class="da-media" placeholder="Image URL / Short Video MP4 or YouTube Embed URL" value="${escapeHtml(data.mediaUrl || '')}">
+        <input type="text" class="da-target" placeholder="Target Sponsor Click Link (https://...)" value="${escapeHtml(data.targetUrl || '')}">
+      </div>
+      <textarea class="da-details" rows="2" placeholder="Ad Caption / Sponsor Details / Script Code...">${escapeHtml(data.details || '')}</textarea>
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-top:6px;">
+        <label style="font-size:0.76rem; font-weight:800; color:#059669;"><input type="checkbox" class="da-active" ${data.active !== false ? 'checked' : ''}> 🟢 Active on Website</label>
+        <button type="button" class="btn-row-del" onclick="this.closest('.dyn-ad-row').remove()">🗑️ Remove</button>
+      </div>
+    `;
+    holder.appendChild(div);
+  };
+
+  setTimeout(() => {
+    fixGitHubRepoName();
+    injectSelectionCounterAndSeparatePostButtons();
+  }, 500);
+  setInterval(updateSelectedCountAndPostBadges, 1500);
+})();
 </script>
 </body>
-  </html>
+</html>

@@ -1,1 +1,77 @@
-[]
+{
+  "updated_at": "2026-10-25 08:18:34 IST",
+  "window_days": 15,
+  "category_counts": {
+    "latest_jobs": 39,
+    "results": 20,
+    "admit_cards": 16,
+    "answer_keys": 16,
+    "syllabus": 16,
+    "admissions": 17
+  },
+  "trending_top_6": [
+    {
+      "id": "12061836307c",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
+      "sub": "Latest Jobs",
+      "url": "https://apply.upessc.org/",
+      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
+      "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "24abaf3c6180",
+      "title": "SSC GD Constable Revised Result 2026",
+      "sub": "Result",
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
+      "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
+      "rushScore": 121,
+      "active": true
+    },
+    {
+      "id": "3a675eca7d6b",
+      "title": "Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "6615892498b1",
+      "title": "Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "2182f6670957",
+      "title": "Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "ed7f84796d54",
+      "title": "OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply",
+      "sub": "Latest Jobs",
+      "url": "https://ssc.gov.in",
+      "details": "Official notification for OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 116,
+      "active": true
+    }
+  ],
+  "standard_boxes": [
+    "Latest Jobs",
+    "Result",
+    "Admit Card",
+    "Answer Key",
+    "Syllabus",
+    "Admission"
+  ],
+  "new_custom_boxes": []
+}

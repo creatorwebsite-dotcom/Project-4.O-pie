@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-25 18:45:17 IST",
+  "updated_at": "2026-10-25 21:39:10 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 77,
-    "results": 53,
-    "admit_cards": 48,
+    "latest_jobs": 94,
+    "results": 65,
+    "admit_cards": 60,
     "answer_keys": 43,
-    "syllabus": 48,
-    "admissions": 49
+    "syllabus": 57,
+    "admissions": 65
   },
   "trending_top_6": [
     {
@@ -20,11 +20,29 @@
       "active": true
     },
     {
+      "id": "2e8d379fabc1",
+      "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://apply.upessc.org/",
+      "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
+      "rushScore": 123,
+      "active": true
+    },
+    {
       "id": "c09263c7784a",
       "title": "RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced",
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 121,
+      "active": true
+    },
+    {
+      "id": "993e6442d89a",
+      "title": "Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 121,
       "active": true
     },
@@ -43,24 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "6615892498b1",
-      "title": "Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "2182f6670957",
-      "title": "Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 118,
       "active": true
     }

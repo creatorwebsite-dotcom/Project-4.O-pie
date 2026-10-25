@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-10-25 21:39:10 IST",
+  "updated_at": "2026-10-25 22:33:15 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 94,
+    "latest_jobs": 110,
     "results": 65,
-    "admit_cards": 60,
-    "answer_keys": 43,
-    "syllabus": 57,
-    "admissions": 65
+    "admit_cards": 61,
+    "answer_keys": 46,
+    "syllabus": 73,
+    "admissions": 81
   },
   "trending_top_6": [
+    {
+      "id": "921d07dacaa8",
+      "title": "Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited",
+      "sub": "Latest Jobs",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 123,
+      "active": true
+    },
     {
       "id": "12061836307c",
       "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
@@ -53,15 +62,6 @@
       "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
       "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
       "rushScore": 121,
-      "active": true
-    },
-    {
-      "id": "3a675eca7d6b",
-      "title": "Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 118,
       "active": true
     }
   ],

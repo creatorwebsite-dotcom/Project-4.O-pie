@@ -1786,4 +1786,9 @@ def enrich_and_format_all_posts_for_index():
 
 
 if __name__ == "__main__":
-    enrich_and_format_all_posts_for_index()
+    main()
+
+# ==============================================================================
+# 🚀 MASTER POST-PROCESSOR & LIVE WEB ENRICHER PATCH FOR MULTI_AGENT_SCRAPER.PY
+# ==============================================================================
+import urllib.parse

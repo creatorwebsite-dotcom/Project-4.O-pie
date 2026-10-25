@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-25 15:35:46 IST",
+  "updated_at": "2026-10-25 18:45:17 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 61,
-    "results": 37,
-    "admit_cards": 32,
-    "answer_keys": 27,
-    "syllabus": 32,
-    "admissions": 33
+    "latest_jobs": 77,
+    "results": 53,
+    "admit_cards": 48,
+    "answer_keys": 43,
+    "syllabus": 48,
+    "admissions": 49
   },
   "trending_top_6": [
     {
@@ -17,6 +17,15 @@
       "url": "https://apply.upessc.org/",
       "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
       "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "c09263c7784a",
+      "title": "RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 121,
       "active": true
     },
     {
@@ -53,15 +62,6 @@
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "ed7f84796d54",
-      "title": "OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply",
-      "sub": "Latest Jobs",
-      "url": "https://ssc.gov.in",
-      "details": "Official notification for OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 116,
       "active": true
     }
   ],

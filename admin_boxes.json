@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-10-26 11:34:54 IST",
+  "updated_at": "2026-10-26 13:13:16 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 118,
-    "results": 65,
-    "admit_cards": 63,
-    "answer_keys": 46,
+    "latest_jobs": 128,
+    "results": 79,
+    "admit_cards": 73,
+    "answer_keys": 51,
     "syllabus": 75,
-    "admissions": 96
+    "admissions": 107
   },
   "trending_top_6": [
+    {
+      "id": "3551b2e2d553",
+      "title": "BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility",
+      "sub": "Result",
+      "url": "https://bpsc.bih.nic.in",
+      "details": "Official notification for BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "921d07dacaa8",
       "title": "Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited",
@@ -34,7 +43,7 @@
       "sub": "Latest Jobs",
       "url": "https://apply.upessc.org/",
       "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 123,
+      "rushScore": 121,
       "active": true
     },
     {
@@ -52,15 +61,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 121,
-      "active": true
-    },
-    {
-      "id": "993e6442d89a",
-      "title": "Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 121,
       "active": true
     }

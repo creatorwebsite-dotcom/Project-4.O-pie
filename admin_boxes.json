@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-27 15:16:20 IST",
+  "updated_at": "2026-10-27 16:24:27 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 218,
-    "results": 97,
-    "admit_cards": 92,
-    "answer_keys": 67,
+    "latest_jobs": 227,
+    "results": 98,
+    "admit_cards": 93,
+    "answer_keys": 71,
     "syllabus": 88,
-    "admissions": 174
+    "admissions": 177
   },
   "trending_top_6": [
     {
@@ -26,6 +26,15 @@
       "url": "https://bpsc.bih.nic.in",
       "details": "Official notification for BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "e9b1d722d1dd",
+      "title": "Railway Group D Recruitment 2026 with 30,000 posts, announcement likely before Diwali",
+      "sub": "Latest Jobs",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for Railway Group D Recruitment 2026 with 30,000 posts, announcement likely before Diwali. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 123,
       "active": true
     },
     {
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://apply.upessc.org/",
       "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 121,
-      "active": true
-    },
-    {
-      "id": "c09263c7784a",
-      "title": "RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 121,
       "active": true
     }

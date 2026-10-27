@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-27 02:13:56 IST",
+  "updated_at": "2026-10-27 09:38:00 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 171,
-    "results": 94,
-    "admit_cards": 85,
-    "answer_keys": 65,
-    "syllabus": 73,
-    "admissions": 128
+    "latest_jobs": 174,
+    "results": 95,
+    "admit_cards": 88,
+    "answer_keys": 66,
+    "syllabus": 75,
+    "admissions": 144
   },
   "trending_top_6": [
     {
@@ -47,20 +47,20 @@
       "active": true
     },
     {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 121,
-      "active": true
-    },
-    {
       "id": "c09263c7784a",
       "title": "RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced",
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 121,
+      "active": true
+    },
+    {
+      "id": "993e6442d89a",
+      "title": "Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 121,
       "active": true
     }

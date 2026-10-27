@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-10-27 11:43:10 IST",
+  "updated_at": "2026-10-27 13:12:18 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 195,
+    "latest_jobs": 202,
     "results": 96,
     "admit_cards": 92,
     "answer_keys": 66,
     "syllabus": 76,
-    "admissions": 160
+    "admissions": 168
   },
   "trending_top_6": [
+    {
+      "id": "09f717dd0144",
+      "title": "UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here",
+      "sub": "Latest Jobs",
+      "url": "https://ssc.gov.in",
+      "details": "Official notification for UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "3551b2e2d553",
       "title": "BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility",
@@ -52,15 +61,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB ALP 2026 CBT 1 Exam Date Out, Check Official Notice,11127 Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 121,
-      "active": true
-    },
-    {
-      "id": "993e6442d89a",
-      "title": "Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 121,
       "active": true
     }

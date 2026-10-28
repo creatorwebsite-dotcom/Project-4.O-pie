@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-28 13:49:22 IST",
+  "updated_at": "2026-10-28 16:01:04 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 267,
-    "results": 105,
+    "latest_jobs": 268,
+    "results": 109,
     "admit_cards": 99,
     "answer_keys": 71,
     "syllabus": 81,
-    "admissions": 208
+    "admissions": 215
   },
   "trending_top_6": [
     {
@@ -26,6 +26,15 @@
       "url": "https://bpsc.bih.nic.in",
       "details": "Official notification for BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "a49050fa00a7",
+      "title": "BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process",
+      "sub": "Result",
+      "url": "https://bpsc.bih.nic.in",
+      "details": "Official notification for BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 123,
       "active": true
     },
     {
@@ -53,15 +62,6 @@
       "url": "https://apply.upessc.org/",
       "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
       "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "2e8d379fabc1",
-      "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 121,
       "active": true
     }
   ],

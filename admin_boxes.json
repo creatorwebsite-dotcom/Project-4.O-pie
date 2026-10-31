@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-31 01:35:50 IST",
+  "updated_at": "2026-10-31 12:26:32 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 392,
-    "results": 136,
-    "admit_cards": 134,
+    "latest_jobs": 419,
+    "results": 153,
+    "admit_cards": 166,
     "answer_keys": 78,
-    "syllabus": 107,
-    "admissions": 292
+    "syllabus": 111,
+    "admissions": 294
   },
   "trending_top_6": [
     {
@@ -26,6 +26,15 @@
       "url": "https://bpsc.bih.nic.in",
       "details": "Official notification for BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "dde6e78d15a8",
+      "title": "Railway RRB ALP CEN 01/2026 Admit Card",
+      "sub": "Admit Card",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "Name Of Post : Railway RRB Assistant Loco Pilot ALP Recruitment 2026 ( CEN 01/2026) : Admit Card for 11127 Post Post Date / Update : 30 October 2026 | 07:05 PM Short Information Indian Railway Railway Recruitment Board RRB Assistant Loco Pilot ALP CEN 01/2026 Exam Date Released. Those candidates who are Enrolled in this Railway RRB CEN 01/2026 can Check Application Status. Read the notification for RRB Assistant Loco Pilot ALP CEN 01/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
+      "rushScore": 123,
       "active": true
     },
     {
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "12061836307c",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
       "rushScore": 123,
       "active": true
     }

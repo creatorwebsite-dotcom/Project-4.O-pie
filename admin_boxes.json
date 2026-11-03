@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-11-04 01:36:23 IST",
+  "updated_at": "2026-11-04 02:44:32 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 585,
-    "results": 176,
-    "admit_cards": 186,
+    "latest_jobs": 589,
+    "results": 180,
+    "admit_cards": 191,
     "answer_keys": 86,
     "syllabus": 114,
     "admissions": 389
   },
   "trending_top_6": [
+    {
+      "id": "24abaf3c6180",
+      "title": "SSC GD Constable Revised Result 2026",
+      "sub": "Result",
+      "url": "https://ssc.gov.in/",
+      "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "4d110a11cdc3",
+      "title": "SSC GD Constable 2026 Marks / Score Card",
+      "sub": "Result",
+      "url": "https://ssc.gov.in/",
+      "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "09f717dd0144",
       "title": "UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here",
@@ -29,15 +47,6 @@
       "active": true
     },
     {
-      "id": "dde6e78d15a8",
-      "title": "Railway RRB ALP CEN 01/2026 Admit Card",
-      "sub": "Admit Card",
-      "url": "https://www.rrbapply.gov.in/#/auth/home",
-      "details": "Name Of Post : Railway RRB Assistant Loco Pilot ALP Recruitment 2026 ( CEN 01/2026) : Admit Card for 11127 Post Post Date / Update : 30 October 2026 | 07:05 PM Short Information Indian Railway Railway Recruitment Board RRB Assistant Loco Pilot ALP CEN 01/2026 Exam Date Released. Those candidates who are Enrolled in this Railway RRB CEN 01/2026 can Check Application Status. Read the notification for RRB Assistant Loco Pilot ALP CEN 01/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
       "id": "a49050fa00a7",
       "title": "BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process",
       "sub": "Result",
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for Railway Group D Recruitment 2026 with 30,000 posts, announcement likely before Diwali. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "921d07dacaa8",
-      "title": "Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited",
-      "sub": "Latest Jobs",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 123,
       "active": true
     }

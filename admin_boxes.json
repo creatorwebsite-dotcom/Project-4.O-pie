@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-05 14:53:07 IST",
+  "updated_at": "2026-11-05 17:43:36 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 653,
-    "results": 183,
-    "admit_cards": 192,
-    "answer_keys": 104,
-    "syllabus": 122,
-    "admissions": 446
+    "latest_jobs": 662,
+    "results": 185,
+    "admit_cards": 190,
+    "answer_keys": 105,
+    "syllabus": 127,
+    "admissions": 449
   },
   "trending_top_6": [
     {
@@ -47,20 +47,20 @@
       "active": true
     },
     {
+      "id": "3a6778c602b1",
+      "title": "RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 123,
+      "active": true
+    },
+    {
       "id": "a49050fa00a7",
       "title": "BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process",
       "sub": "Result",
       "url": "https://bpsc.bih.nic.in",
       "details": "Official notification for BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "e9b1d722d1dd",
-      "title": "Railway Group D Recruitment 2026 with 30,000 posts, announcement likely before Diwali",
-      "sub": "Latest Jobs",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for Railway Group D Recruitment 2026 with 30,000 posts, announcement likely before Diwali. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 123,
       "active": true
     }

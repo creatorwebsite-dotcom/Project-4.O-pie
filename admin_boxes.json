@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-07 14:10:40 IST",
+  "updated_at": "2026-11-07 16:30:13 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 672,
-    "results": 172,
-    "admit_cards": 168,
+    "latest_jobs": 674,
+    "results": 173,
+    "admit_cards": 170,
     "answer_keys": 108,
-    "syllabus": 119,
-    "admissions": 445
+    "syllabus": 122,
+    "admissions": 446
   },
   "trending_top_6": [
+    {
+      "id": "c0971824a59b",
+      "title": "MPSC Group C Recruitment 2026 Notification Out for 16,797 Posts, Apply Online at @mpsconline.gov.in",
+      "sub": "Syllabus",
+      "url": "https://mpsc.gov.in",
+      "details": "Official notification for MPSC Group C Recruitment 2026 Notification Out for 16,797 Posts, Apply Online at @mpsconline.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "24abaf3c6180",
       "title": "SSC GD Constable Revised Result 2026",
@@ -52,15 +61,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "a49050fa00a7",
-      "title": "BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process",
-      "sub": "Result",
-      "url": "https://bpsc.bih.nic.in",
-      "details": "Official notification for BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 123,
       "active": true
     }

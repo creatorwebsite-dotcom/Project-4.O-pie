@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-08 20:53:30 IST",
+  "updated_at": "2026-11-08 23:24:36 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 662,
+    "latest_jobs": 657,
     "results": 145,
-    "admit_cards": 149,
-    "answer_keys": 103,
+    "admit_cards": 145,
+    "answer_keys": 99,
     "syllabus": 105,
-    "admissions": 425
+    "admissions": 424
   },
   "trending_top_6": [
     {

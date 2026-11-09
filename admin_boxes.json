@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-09 13:24:05 IST",
+  "updated_at": "2026-11-09 15:09:00 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 656,
-    "results": 143,
-    "admit_cards": 145,
+    "latest_jobs": 659,
+    "results": 144,
+    "admit_cards": 148,
     "answer_keys": 98,
     "syllabus": 105,
-    "admissions": 424
+    "admissions": 425
   },
   "trending_top_6": [
+    {
+      "id": "b55b0b1c5529",
+      "title": "MPSC Group C 2026: 16,717 Posts, Prelims on January 24",
+      "sub": "Result",
+      "url": "https://mpsc.gov.in",
+      "details": "Official notification for MPSC Group C 2026: 16,717 Posts, Prelims on January 24. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "c956d06b1b76",
       "title": "West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage",
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://ssc.gov.in",
       "details": "Official notification for UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "3551b2e2d553",
-      "title": "BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility",
-      "sub": "Result",
-      "url": "https://bpsc.bih.nic.in",
-      "details": "Official notification for BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     }

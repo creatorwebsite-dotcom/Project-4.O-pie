@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-11 18:26:03 IST",
+  "updated_at": "2026-11-11 21:50:54 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 653,
+    "latest_jobs": 650,
     "results": 134,
     "admit_cards": 152,
-    "answer_keys": 87,
-    "syllabus": 92,
-    "admissions": 403
+    "answer_keys": 86,
+    "syllabus": 91,
+    "admissions": 399
   },
   "trending_top_6": [
+    {
+      "id": "410f8522b383",
+      "title": "MPSC 16,797 Group C Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://mpsconline.gov.in/",
+      "details": "",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "b55b0b1c5529",
       "title": "MPSC Group C 2026: 16,717 Posts, Prelims on January 24",
@@ -53,15 +62,6 @@
       "url": "https://ssc.gov.in/",
       "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
       "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "3a6778c602b1",
-      "title": "RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 123,
       "active": true
     }
   ],

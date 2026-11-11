@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-11 17:20:18 IST",
+  "updated_at": "2026-11-11 18:26:03 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 657,
-    "results": 138,
-    "admit_cards": 154,
-    "answer_keys": 91,
-    "syllabus": 95,
-    "admissions": 412
+    "latest_jobs": 653,
+    "results": 134,
+    "admit_cards": 152,
+    "answer_keys": 87,
+    "syllabus": 92,
+    "admissions": 403
   },
   "trending_top_6": [
     {
@@ -56,12 +56,12 @@
       "active": true
     },
     {
-      "id": "09f717dd0144",
-      "title": "UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here",
-      "sub": "Latest Jobs",
-      "url": "https://ssc.gov.in",
-      "details": "Official notification for UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
+      "id": "3a6778c602b1",
+      "title": "RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 123,
       "active": true
     }
   ],

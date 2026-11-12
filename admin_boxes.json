@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12 15:13:31 IST",
+  "updated_at": "2026-11-12 18:05:04 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 654,
-    "results": 138,
-    "admit_cards": 151,
-    "answer_keys": 85,
-    "syllabus": 93,
-    "admissions": 411
+    "latest_jobs": 658,
+    "results": 134,
+    "admit_cards": 150,
+    "answer_keys": 87,
+    "syllabus": 87,
+    "admissions": 413
   },
   "trending_top_6": [
     {
@@ -15,6 +15,15 @@
       "title": "MPSC 16,797 Group C Online Form 2026",
       "sub": "Latest Jobs",
       "url": "https://mpsconline.gov.in/",
+      "details": "",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "45222509181b",
+      "title": "RRB ALP CBT 1 Answer Key 2026",
+      "sub": "Closing Soon",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
       "rushScore": 125,
       "active": true
@@ -49,15 +58,6 @@
     {
       "id": "24abaf3c6180",
       "title": "SSC GD Constable Revised Result 2026",
-      "sub": "Result",
-      "url": "https://ssc.gov.in/",
-      "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "4d110a11cdc3",
-      "title": "SSC GD Constable 2026 Marks / Score Card",
       "sub": "Result",
       "url": "https://ssc.gov.in/",
       "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",

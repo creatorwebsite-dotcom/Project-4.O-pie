@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-13 22:04:36 IST",
+  "updated_at": "2026-11-14 01:06:58 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 656,
-    "results": 126,
-    "admit_cards": 162,
+    "latest_jobs": 655,
+    "results": 137,
+    "admit_cards": 181,
     "answer_keys": 88,
-    "syllabus": 93,
-    "admissions": 413
+    "syllabus": 92,
+    "admissions": 411
   },
   "trending_top_6": [
+    {
+      "id": "d00325d62961",
+      "title": "IBPS RRB Officer Scale I Pre Admit Card 2026",
+      "sub": "Date Extended",
+      "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+      "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
+      "rushScore": 134,
+      "active": true
+    },
     {
       "id": "9971a1e8d88a",
       "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "c0971824a59b",
-      "title": "MPSC Group C Recruitment 2026 Notification Out for 16,797 Posts, Apply Online at @mpsconline.gov.in",
-      "sub": "Syllabus",
-      "url": "https://mpsc.gov.in",
-      "details": "Official notification for MPSC Group C Recruitment 2026 Notification Out for 16,797 Posts, Apply Online at @mpsconline.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     }

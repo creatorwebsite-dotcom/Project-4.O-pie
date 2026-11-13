@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-13 13:21:28 IST",
+  "updated_at": "2026-11-13 14:56:13 IST",
   "window_days": 15,
   "category_counts": {
     "latest_jobs": 655,
     "results": 130,
     "admit_cards": 154,
-    "answer_keys": 95,
-    "syllabus": 89,
-    "admissions": 421
+    "answer_keys": 94,
+    "syllabus": 92,
+    "admissions": 425
   },
   "trending_top_6": [
+    {
+      "id": "9971a1e8d88a",
+      "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "410f8522b383",
       "title": "MPSC 16,797 Group C Online Form 2026",
@@ -52,15 +61,6 @@
       "sub": "Syllabus",
       "url": "https://mpsc.gov.in",
       "details": "Official notification for MPSC Group C Recruitment 2026 Notification Out for 16,797 Posts, Apply Online at @mpsconline.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "24abaf3c6180",
-      "title": "SSC GD Constable Revised Result 2026",
-      "sub": "Result",
-      "url": "https://ssc.gov.in/",
-      "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
       "rushScore": 125,
       "active": true
     }

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14 03:05:28 IST",
+  "updated_at": "2026-11-14 13:03:40 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 656,
-    "results": 138,
-    "admit_cards": 180,
-    "answer_keys": 88,
-    "syllabus": 92,
-    "admissions": 408
+    "latest_jobs": 645,
+    "results": 136,
+    "admit_cards": 184,
+    "answer_keys": 90,
+    "syllabus": 100,
+    "admissions": 413
   },
   "trending_top_6": [
     {
@@ -20,20 +20,20 @@
       "active": true
     },
     {
+      "id": "849df1ee41db",
+      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
+      "sub": "Date Extended",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "9971a1e8d88a",
       "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "410f8522b383",
-      "title": "MPSC 16,797 Group C Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://mpsconline.gov.in/",
-      "details": "",
       "rushScore": 125,
       "active": true
     },

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17 05:19:53 IST",
+  "updated_at": "2026-11-17 14:36:54 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 639,
-    "results": 124,
-    "admit_cards": 186,
+    "latest_jobs": 636,
+    "results": 121,
+    "admit_cards": 199,
     "answer_keys": 88,
-    "syllabus": 92,
-    "admissions": 430
+    "syllabus": 95,
+    "admissions": 440
   },
   "trending_top_6": [
     {
@@ -17,15 +17,6 @@
       "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
       "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
       "rushScore": 134,
-      "active": true
-    },
-    {
-      "id": "828df6b10d6a",
-      "title": "UP Police Constable Score Card 2026 Out",
-      "sub": "Result",
-      "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
-      "details": "",
-      "rushScore": 125,
       "active": true
     },
     {
@@ -61,6 +52,15 @@
       "sub": "Result",
       "url": "https://mpsc.gov.in",
       "details": "Official notification for MPSC Group C 2026: 16,717 Posts, Prelims on January 24. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "c956d06b1b76",
+      "title": "West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     }

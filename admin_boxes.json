@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24 08:03:01 IST",
+  "updated_at": "2026-11-24 16:21:32 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 663,
-    "results": 155,
-    "admit_cards": 288,
-    "answer_keys": 87,
-    "syllabus": 140,
-    "admissions": 440
+    "latest_jobs": 675,
+    "results": 156,
+    "admit_cards": 300,
+    "answer_keys": 88,
+    "syllabus": 143,
+    "admissions": 447
   },
   "trending_top_6": [
     {
@@ -17,6 +17,24 @@
       "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
       "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
       "rushScore": 134,
+      "active": true
+    },
+    {
+      "id": "f62232a5a7fa",
+      "title": "Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "4bf2d371e358",
+      "title": "Gujarat Police announces direct recruitment for 12,993 posts: 12,752 vacancies in Lok Rakshak cadre and 241...",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Gujarat Police announces direct recruitment for 12,993 posts: 12,752 vacancies in Lok Rakshak cadre and 241.... Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -43,24 +61,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "45222509181b",
-      "title": "RRB ALP CBT 1 Answer Key 2026",
-      "sub": "Closing Soon",
-      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
-      "details": "",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "b55b0b1c5529",
-      "title": "MPSC Group C 2026: 16,717 Posts, Prelims on January 24",
-      "sub": "Result",
-      "url": "https://mpsc.gov.in",
-      "details": "Official notification for MPSC Group C 2026: 16,717 Posts, Prelims on January 24. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     }

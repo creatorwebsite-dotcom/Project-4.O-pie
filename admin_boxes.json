@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-25 05:35:11 IST",
+  "updated_at": "2026-11-25 15:17:11 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 671,
-    "results": 158,
+    "latest_jobs": 686,
+    "results": 159,
     "admit_cards": 300,
-    "answer_keys": 90,
-    "syllabus": 148,
-    "admissions": 440
+    "answer_keys": 91,
+    "syllabus": 153,
+    "admissions": 449
   },
   "trending_top_6": [
+    {
+      "id": "f79bf1cb4cc6",
+      "title": "Odisha has 88,905 vacancies across depts, 26,101 in police force: CM Majhi",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Odisha has 88,905 vacancies across depts, 26,101 in police force: CM Majhi. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "f62232a5a7fa",
       "title": "Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced",
@@ -52,15 +61,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "45222509181b",
-      "title": "RRB ALP CBT 1 Answer Key 2026",
-      "sub": "Closing Soon",
-      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
-      "details": "",
       "rushScore": 125,
       "active": true
     }

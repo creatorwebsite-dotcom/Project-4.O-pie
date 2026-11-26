@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-26 16:15:34 IST",
+  "updated_at": "2026-11-26 19:18:58 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 724,
+    "latest_jobs": 728,
     "results": 177,
-    "admit_cards": 307,
-    "answer_keys": 89,
-    "syllabus": 177,
-    "admissions": 459
+    "admit_cards": 312,
+    "answer_keys": 86,
+    "syllabus": 174,
+    "admissions": 453
   },
   "trending_top_6": [
+    {
+      "id": "ec11beedbc55",
+      "title": "Gujarat Police 13,152 Various Posts Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://ojas.gujarat.gov.in/AdvtDetails.aspx?sid=RsbhRsc9uvM=&yr=iNSQ32x8ipg=&ano=a2GSpnDbruI=",
+      "details": "The Gujarat Police Recruitment Board (GPRB) has released four notifications under Gujarat Police Recruitment 2026 for 13,152 Class 3 vacancies in the Lokrakshak, Police Sub Inspector (PSI) and Police Technical cadres. The recruitment includes Unarmed Police Constable, Armed Police Constable, SRPF Constable, Jail Sipahi, Police Sub Inspector, Jailer, Head Constable Driver Mechanic and Motor Transport Supervisor posts.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "f79bf1cb4cc6",
       "title": "Odisha has 88,905 vacancies across depts, 26,101 in police force: CM Majhi",
@@ -52,15 +61,6 @@
       "sub": "Date Extended",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "9971a1e8d88a",
-      "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     }

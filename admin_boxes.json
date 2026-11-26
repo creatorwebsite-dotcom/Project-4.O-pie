@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27 00:00:23 IST",
+  "updated_at": "2026-11-27 02:56:45 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 732,
-    "results": 180,
-    "admit_cards": 319,
-    "answer_keys": 85,
+    "latest_jobs": 738,
+    "results": 181,
+    "admit_cards": 327,
+    "answer_keys": 84,
     "syllabus": 177,
-    "admissions": 446
+    "admissions": 444
   },
   "trending_top_6": [
     {
@@ -16,6 +16,15 @@
       "sub": "Latest Jobs",
       "url": "https://ojas.gujarat.gov.in/AdvtDetails.aspx?sid=RsbhRsc9uvM=&yr=iNSQ32x8ipg=&ano=a2GSpnDbruI=",
       "details": "The Gujarat Police Recruitment Board (GPRB) has released four notifications under Gujarat Police Recruitment 2026 for 13,152 Class 3 vacancies in the Lokrakshak, Police Sub Inspector (PSI) and Police Technical cadres. The recruitment includes Unarmed Police Constable, Armed Police Constable, SRPF Constable, Jail Sipahi, Police Sub Inspector, Jailer, Head Constable Driver Mechanic and Motor Transport Supervisor posts.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "a427bc919bcf",
+      "title": "UPPSC Pre 2026 Exam City Details",
+      "sub": "Date Extended",
+      "url": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
+      "details": "Name Of Post : UPPSC Combined State / Upper Subordinate Services (PCS) (GEN./SPL.) Examination 2026 Pre Exam City / Admit Card for 500 Post Post Date / Update : 26 November 2026 | 05:49 PM Short Information Uttar Pradesh Public Service Commission UPPSC has released the Combined State Upper Subordinate Services Examination 2026 Notification. Those candidates who are Enrolled in this UPPSC Pre Recruitment 2026 Exam can Download Admit Card. Read the notification for UPPSC Prelim 2026 Exam, eligibility, Subject Details information, Document Required, age limit, How to Apply and all other information.",
       "rushScore": 125,
       "active": true
     },
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for Over 26,000 vacancies in Odisha Police, recruitment process underway for 6,885 posts: CM. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "849df1ee41db",
-      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
-      "sub": "Date Extended",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     }

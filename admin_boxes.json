@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-28 15:43:46 IST",
+  "updated_at": "2026-11-28 18:24:14 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 713,
-    "results": 179,
+    "latest_jobs": 710,
+    "results": 181,
     "admit_cards": 333,
-    "answer_keys": 75,
-    "syllabus": 187,
-    "admissions": 423
+    "answer_keys": 73,
+    "syllabus": 185,
+    "admissions": 421
   },
   "trending_top_6": [
+    {
+      "id": "dd7016496440",
+      "title": "MPSC Group C Recruitment 2026: Application Window Closes Today For 16,717 Posts, Exam On January 24, Check Direct Here",
+      "sub": "Result",
+      "url": "https://mpsc.gov.in",
+      "details": "Official notification for MPSC Group C Recruitment 2026: Application Window Closes Today For 16,717 Posts, Exam On January 24, Check Direct Here. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "a427bc919bcf",
       "title": "UPPSC Pre 2026 Exam City Details",
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for Over 26,000 vacancies in Odisha Police, recruitment process underway for 6,885 posts: CM. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "849df1ee41db",
-      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
-      "sub": "Date Extended",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     }
